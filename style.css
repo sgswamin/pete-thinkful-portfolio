@@ -18,10 +18,21 @@ h3 {
 
 nav {
   text-align: center;
-  margin: 20px  20px 20px;
-  padding: 10px 10px 10pxs;
+  margin: 20px  0 0;
+  padding: 10px 0 0;
   }
 
+#about{
+  padding: 5px;
+}
+
+#portfolio{
+  padding: 5px;
+}
+
+#contact{
+  padding:5px;
+}
 a{
   color: #d62828;
 }
